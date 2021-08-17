@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612405029 source:c:\users\francis chiu\documents\c++\classbattle\main.cpp
+	<iostream>
+	<ctime>
+	"windows.h"
+
